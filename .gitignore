@@ -1,3 +1,7 @@
 data/
 .ipynb_checkpoints
 .bin
+input/
+mlruns/
+output/
+.DS_Store
