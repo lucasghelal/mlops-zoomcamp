@@ -5,3 +5,12 @@ input/
 mlruns/
 output/
 .DS_Store
+*.db
+
+*.parquet
+*.html
+*.csv
+
+.venv
+venv
+.idea
